@@ -92,6 +92,12 @@ Domains are split independently (80/20) and shuffled separately to maintain the 
 - **Preprocessing**: Resize to 128×128 (BILINEAR), convert to grayscale, normalise to [−1, 1]
 
 ---
+## Results
+<img width="1117" height="385" alt="image" src="https://github.com/user-attachments/assets/a6cbcdbd-0edb-470e-b743-caeb1b666a14" />
+<img width="1134" height="388" alt="image" src="https://github.com/user-attachments/assets/418a993f-d1a0-42d6-8a0b-90cd365391df" />
+<img width="1134" height="388" alt="image" src="https://github.com/user-attachments/assets/103fc5e5-e93b-4f15-a587-6bfda5e01b74" />
+
+
 
 ## Evaluation Metrics
 
